@@ -53,12 +53,26 @@ We will spend some time reviewing the concepts from the prework. We will also di
 ## Notes
 
 - What is ES6?
+  - newest version of JavaScript with added cool new features!
+  - built-in methods, classes, arrow functions
 - What is a class?
+  - a way to make objects, kinda like constructor functions
 - What is a method?
+  - a function on an object/class
 - What is the difference between an arrow function and a function declaration?
+  - arrow functions are a more concise way of writing function declarations and come with a few restrictions.
 - What is React?
+  - User Interface Library!
+    - it's prewritten code
+  - Developer Advantages
+    - reusuability parts
+    - separation of concerns
+  - CRA aka `create-react-app`
+    - CRA is a library that builds a working React application out the box, ready to be customized!
 - What are components?
+  - resusable parts on a website
 - What are React class components made from?
+  - ES6 Classes
 
 1. Turning a function declaration into an arrow function:
 
