@@ -10,12 +10,24 @@ We will spend some time reviewing the concepts from the prework. We will also di
 
 - Orientation w/ John Cokos
 - Overview of 301
+  - Zoom Lectures
+  - Remo Virtual Lab
+  - Slack
+  - GitHub Class Repo
+  - Canvas
+    - Assignments
+      - Grading TA: Joey Hernandez
+      - Late Policy
 - Review of prework
+  - Arrow Functions
+  - Classes
+- Lunch Break / 301n27's Final Project Presentations
 - Introduction to code challenges
-- Introduction of code challenge topic
+  - Review loops & iteration
+  - Introduction of Code Challenge 01: `array.forEach()`
 - Discussion of `create-react-app`
 - Discussion of component-based architecture
-- Lab prep
+- Lab overview
 
 ## Learning Objectives
 
