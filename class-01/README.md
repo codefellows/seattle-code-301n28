@@ -51,9 +51,14 @@ We will spend some time reviewing the concepts from the prework. We will also di
 
 ## Notes
 
-1. What is React?
-1. What are components?
-1. What is the difference between an arrow function and a function declaration?
+- What is ES6?
+- What is a class?
+- What is a method?
+- What is the difference between an arrow function and a function declaration?
+- What is React?
+- What are components?
+- What are React class components made from?
+
 1. Turning a function declaration into an arrow function:
 
    ```javascript
