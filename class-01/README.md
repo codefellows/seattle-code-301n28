@@ -25,6 +25,7 @@ We will spend some time reviewing the concepts from the prework. We will also di
 - Introduction to code challenges
   - Review loops & iteration
   - Introduction of Code Challenge 01: `array.forEach()`
+  - repl.it Demo: <https://replit.com/@HexxKing1/301n28-Loops-Review-and-arrayforEach#index.js>
 - Discussion of `create-react-app`
 - Discussion of component-based architecture
 - Lab overview
