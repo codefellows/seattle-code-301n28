@@ -10,6 +10,7 @@ Today's class will focus on passing information as `props` from a parent compone
 - Code review code challenges
 - Code review of lab assignment
 - Introduction of today's code challenge topic
+  - Repl.it Demo: <https://replit.com/@HexxKing1/301n28-arraymap#index.js>
 - Code Demo
 - Bootstrap
 - Netlify
