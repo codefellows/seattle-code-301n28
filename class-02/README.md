@@ -7,7 +7,7 @@ Today's class will focus on passing information as `props` from a parent compone
 ## Class Outline
 
 - Warm-up exercise
-- Review code challenges
+- Code review code challenges
 - Code review of lab assignment
 - Introduction of today's code challenge topic
 - Code Demo
