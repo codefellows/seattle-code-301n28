@@ -40,22 +40,38 @@ Today's class will focus on passing information as `props` from a parent compone
 ## Notes
 
 - What is state?
+  - The state is a built-in React object that is used to hold data about the component. A component's state can change, and when it changes, the whole component re-renders and therefore re-renders any child component with the newly updated data as well.
 
 - What are props?
+  - Props is a special kind of object in React that allows us to pass data from a parent component to a child component(s). Props is short for "properties". They are useful when you want the flow of data in your app to be dynamic.
 
 - To Update State: `this.setState({ thingInState: thingToUpdate })`
+  - This is a special method given to us by React that applies changes to the component's state and tells React that this component and its children need to be re-rendered with the updated state. This is the primary method you use to update the user interface in response to event listeners and server responses.
+    - <https://reactjs.org/docs/react-component.html#:~:text=and%20forceUpdate()%20.-,setState(),event%20handlers%20and%20server%20responses>
 
-- To send something in props to a child component: `<ChildComponent bananas='randomString' />`
+- To send something in props to a child component:
+`<ChildComponent bananas={'randomString'} />`
 
-- To access that variable in the props from the child component: `this.props.bananas`
+- To access that variable in the props from the child component:
+`this.props.bananas`
 
-- Information flows in one direction. That direction is ______________.
+- Information flows in one direction. That direction is down.
 
 - What is Bootstrap?
+  - Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains HTML, CSS and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components.(Wikipedia)
+  - dynamic is the ability to update a value in an application and that new value is automatically updated everywhere it is needed.
+  - responsive just means that your UI can be displayed on any size screen like a phone vs a tablet vs a computer screen (and it still look nice).
 
 - What are different things that I can customize using Bootstrap?
+  - forms
+  - modals
+  - buttons
+  - images
+  - tables
 
 - How does Bootstrap use classes for customization?
+  - in React, we must use `className` instead of `class` when needing a CSS selector. `class` is a reserved word that creates instances of objects in JavaScript.
+  - <https://getbootstrap.com/docs/5.0/utilities/api/>
 
 1. Holding state in a parent component and sending it into a child component:
 
