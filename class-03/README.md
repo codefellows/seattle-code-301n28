@@ -9,6 +9,7 @@ Yesterday, you learned how to pass information from a parent component into a ch
 - Warm-up exercise
 - Review code challenges
 - Introduction of today's code challenge topic
+  - Repl.it Demo: <https://replit.com/@HexxKing1/301n28-arrayfilter#index.js>
 - Code review of lab assignment
 - Code Demo
 - Lab Preview
