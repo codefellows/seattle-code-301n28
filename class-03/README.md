@@ -6,11 +6,11 @@ Yesterday, you learned how to pass information from a parent component into a ch
 
 ## Class Outline
 
-- Warm-up exercise
 - Review code challenges
+- Code review of lab assignment
 - Introduction of today's code challenge topic
   - Repl.it Demo: <https://replit.com/@HexxKing1/301n28-arrayfilter#index.js>
-- Code review of lab assignment
+- Warm-up exercise
 - Code Demo
 - Lab Preview
 
@@ -32,11 +32,11 @@ Yesterday, you learned how to pass information from a parent component into a ch
 
 ## Notes
 
-1. How can a child component update the state of a parent component?
+- How can a child component update the state of a parent component?
 
-1. How does a parent component send a function into a child component?
+- How does a parent component send a function into a child component?
 
-1. Using React-Bootstrap, how do you determine if a modal is open or closed?
+- Using React-Bootstrap, how do you determine if a modal is open or closed?
 
 1. Allowing the child component to update the state in the parent component:
 
@@ -88,3 +88,12 @@ Yesterday, you learned how to pass information from a parent component into a ch
   ```
 
   - Step 3. The invoked function from the child component will update the name in the parent component and tada! Your child component has essientially changed the state of your parent component.
+
+
+## Feedback Overview
+- "The tempo of this class is a lot faster compared to my previous class. It was a bit overwhelming."
+- "For me its striking the balance of how quick this information is coming at us and my being able to actually capture that information."
+- "The fact that we dont get access to the canvas until the day before. especially with the amount of prework that we had come in during the week where we had no class. I know a few students and myself were eager to start the assignments and be able to hit the ground running, however we got alot of assignments and had to do alot of that work the day before as well as the reading that was due the first day of class. This week didnt feel much like a break to me because me (and some students) because there was never a point we were able to have everything turned in and got to enjoy it. This (to me) was a big flop."
+- "Right now the messaging for the hurried and difficult pace seems to take delight in it being hurried and difficult."
+- "I'm concerned about the feasibility of same-day due-date for coding challenges, labs, etc. For Class 01, on a Saturday when I had no other obligations and the assignments were not particularly complex, this wasn't much of a problem. But looking ahead I'm concerned this schedule may be unrealistic, particularly for weeknight assignments. I can't be expected to stay up until Midnight to crank out assignments when I need to be up early the next day for a full-time job. I've temporarily given up any semblance of work-life balance in order to complete this boot-camp process. But some schedule flexibility would be helpful vs setting the expectation of submitting incomplete assignments to take advantage of the resubmission policy."
+- "Saturday's class was a serious butt kicker. I had a lot of anxiety going into it. BUT I had a great time. Before I knew it, I had been in class/programming for eleven hours and felt like I was at a good place to take a mental health break. I think lots of folks struggle with imposters syndrome, especially when completely pivoting out of their current fields of work, and I am absolutely no exception. Being able to jump right back into learning and know what was being talked about, and able to engage and work with others once lecture was over was invigorating. I'm stoked to be in this class, and am grateful for the folks who helped get me here. "
