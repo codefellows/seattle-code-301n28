@@ -33,10 +33,17 @@ Yesterday, you learned how to pass information from a parent component into a ch
 ## Notes
 
 - How can a child component update the state of a parent component?
+  - This "helper function" allows us to do something in a child component that will trigger behavior in the parent component.
+  - This is useful for updating state, which in return re-renders the parent component and all of it's the children components with the updated value(s). The action of changing state still occurs in the parent, even if the child triggers it and passes arguments.
 
 - How does a parent component send a function into a child component?
+  - The parent component sends a "helper function" into the child component on the props object that will allow the child component to interact with information in the parent component by invoking that "helper function".
+  - This is called "lifting state" in React
 
 - Using React-Bootstrap, how do you determine if a modal is open or closed?
+  - You can use the `show` and `onHide` properties on the Modal element to display or hide the modal.
+    - The `show` attribute is a boolean and will show if it is set to true or will hide if set to false.
+    - The `onHide` attribute is an event listener(function) that closes the model by setting the show property to false.
 
 1. Allowing the child component to update the state in the parent component:
 
