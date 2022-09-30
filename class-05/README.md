@@ -7,9 +7,10 @@ Today we will use the skills we learned over the week to introduce a new applica
 ## Class Outline
 
 - Code Challenge Code Review
-- Lab Review
 - Introduction of today's code challenge topic
+  - repl.it demo: <https://replit.com/@HexxKing1/301n28-arrayreduce#index.js>
 - Warm-up exercise
+- Lab Review
 - Introduce Module 2: City Explorer
 - Lecture/Code Demo
 - Lab Preview
