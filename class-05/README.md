@@ -12,6 +12,7 @@ Today we will use the skills we learned over the week to introduce a new applica
 - Warm-up exercise
 - Lab Review
 - Introduce Module 2: City Explorer
+  - API/Objects Repl.it: <https://replit.com/@HexxKing1/APIs-and-Objects#index.js>
 - Lecture/Code Demo
 - Lab Preview
 
