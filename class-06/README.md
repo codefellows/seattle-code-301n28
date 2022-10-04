@@ -9,6 +9,7 @@ Today we will explore third party APIs and how to request data from them.
 - Review code challenges
 - Code review of previous lab assignment
 - Introduction of today's code challenge topic
+  - repl.it demo: <https://replit.com/@HexxKing1/301n28-Value-vs-Reference#index.js>
 - Warm-up exercise
 - Third Party APIs, `async` and `await`
 - Code Demo
