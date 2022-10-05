@@ -42,11 +42,13 @@ Today we will explore third party APIs and how to request data from them.
 
 ## Notes
 
-1. What is an API?
-1. What is asynchronous code and how does it relate to async and await?
-1. Why do you need an API key?
-1. What is an HTTP API Client?
-1. What is axios?
+- What are HTTP methods?
+- What is synchronous code?
+- What is asynchronous code and how does it relate to async and await?
+- What is an API?
+- Why do you need an API key?
+- What is Axios?
+- What is an HTTP API Client?
 1. Making a variable in an .env file: `PORT=3000`
 
    - Common ways to get that wrong:
