@@ -42,13 +42,17 @@ Today we will explore third party APIs and how to request data from them.
 
 ## Notes
 
+- What does WRRC stand for?
 - What are HTTP methods?
-- What is synchronous code?
 - What is asynchronous code and how does it relate to async and await?
+- What is synchronous code?
 - What is an API?
 - Why do you need an API key?
 - What is Axios?
 - What is an HTTP API Client?
+- What is the purpose of an `.env` file?
+- What are Netlify's Enviroment Variables used for?
+
 1. Making a variable in an .env file: `PORT=3000`
 
    - Common ways to get that wrong:
