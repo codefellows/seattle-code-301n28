@@ -39,13 +39,15 @@ Today we will build our own custom Express server in Node.js. We will server our
 
 ## Notes
 
-1. What is a server?
+- What is a server?
 
-1. What is express?
+- What is express?
 
-1. What is cors?
+- What is a port?
 
-1. Why do we need a server?
+- What is cors?
+
+- Why do we need a server?
 
 1. Basic express server:
 
