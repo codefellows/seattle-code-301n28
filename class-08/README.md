@@ -6,10 +6,10 @@ Today we will use our express server to request information from third party API
 
 ## Class Outline
 
-- Warm-up exercise
+- Code review of lab assignment
 - Review code challenges
 - Introduction of today's code challenge topic
-- Code review of lab assignment
+- Warm-up exercise
 - Requesting data from 3rd party APIs via the server
 - Code Demo
 - Lab Preview
