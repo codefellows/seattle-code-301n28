@@ -1,0 +1,28 @@
+{
+  "name": "301n28-photo-api",
+  "version": "1.0.0",
+  "description": "class 08 demo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HexxKing/301n28-photo-api.git"
+  },
+  "author": "Hexx King",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HexxKing/301n28-photo-api/issues"
+  },
+  "homepage": "https://github.com/HexxKing/301n28-photo-api#readme",
+  "dependencies": {
+    "axios": "^1.1.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
