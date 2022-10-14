@@ -13,6 +13,7 @@ Today we will dive a little bit deeper into Express and higher level programming
 - Review code challenges
 - Code review of lab assignment
 - Introduction of today's code challenge topic
+  - repl.it <https://replit.com/@HexxKing1/WhisperedGlossyFlashdrive#index.js>
 - Warm-up exercise
 - Code Demo
 - Lab Preview
