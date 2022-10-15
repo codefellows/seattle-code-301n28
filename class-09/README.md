@@ -15,7 +15,13 @@ Today we will dive a little bit deeper into Express and higher level programming
 - Introduction of today's code challenge topic
   - repl.it <https://replit.com/@HexxKing1/WhisperedGlossyFlashdrive#index.js>
 - Warm-up exercise
-- Code Demo
+- Promises vs Async
+- Refactoring for Efficiency
+  - Repl.it Demo:
+- Refactoring with Promises
+  - Repl.it Demo:
+- Modules
+  - Can be found in the demo folder in the `jobs` directory
 - Lab Preview
 
 ## Learning Objectives
@@ -39,15 +45,17 @@ Today we will dive a little bit deeper into Express and higher level programming
 
 ## Notes
 
-1. What is DRY code?
+- What is a Promise?
 
-1. Why do we modularize our code?
+- `async and await` - vs - `.then() and .catch()`
 
-1. What is a Promise?
+- What is the difference between a Promise and using `.then()/.catch()`?
 
-1. What is the difference between a Promise and using `.then()/.catch()`?
+- What is refactoring?
 
-1. `async and await` - vs - `.then() and .catch()`
+- What is DRY code?
+
+- Why do we modularize our code?
 
   ```javaScript
   async function doSomething() {
