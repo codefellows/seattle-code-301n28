@@ -21,7 +21,7 @@ Today we will dive a little bit deeper into Express and higher level programming
 - Refactoring with Promises
   - Repl.it Demo: <https://replit.com/@HexxKing1/301n28-Refactoring-with-Promises#index.js>
 - Modules
-  - Can be found in the demo folder in the `jobs` directory
+  - Can be found in the demo folder
 - Lab Preview
 
 ## Learning Objectives
