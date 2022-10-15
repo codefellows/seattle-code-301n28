@@ -126,4 +126,15 @@ Today we will dive a little bit deeper into Express and higher level programming
   doesStuffObject.doSomethingElse();
   ```
 
-  1. List of resources to help with lab or if I want to know more:
+## Feedback Overview
+
+- "It was a difficult week. My brain is feeling stressed trying to absorb alot of information quickly."
+- "Starting to really enjoy the problem solving aspects of it now that I have a fundamental tool chest. However, unknown unknowns continue to plague."
+- "This past week, we did touched onto API's and that was alot to handle."
+- "I think It would be awesome to get to interact with the 401 students. In 201 we got to sit in with a 401 class and although it was cause left town for a day, it was awesome to get some insight from our 'peers'."
+- "thanks for you patience and understanding that this stuff can be overwhelming"
+- "I rate this week lower than normal because it's the first week of the course I've felt significant stress."
+- "I had kind of a tough week. I'd still no doubt recommend this course to folks, I just had a mix of personal stuff and being introduced to a particularly challenging portion of the course. Feeling overwhelmed, but hopeful."
+- "I've also really liked checking in with a partner before lab-time. In all honesty, it's kind of reassuring knowing I'm not the only one struggling with the concepts/labs. Wireframing with another person is also incredibly helpful."
+- "I've been really enjoying the group work we've been doing in class-- the before lab check-ins, the group replits, and the warm ups. Talking out coding processes is very helpful in my learning."
+- "I feel like we are given tons of resources to be successful in our work."
