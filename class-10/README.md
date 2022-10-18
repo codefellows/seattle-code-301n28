@@ -9,6 +9,7 @@ Today we will talk about in-memory storage as well as dive deeper into modulariz
 - Code review of lab assignment
 - Review code challenges
 - Introduction of new code challenge
+  - replit demo: <https://replit.com/@HexxKing1/301n28-Nested-Arrays-and-Loops#index.js>
 - Warm-up exercise
 - In-memory persistence
 - Lab Overview
