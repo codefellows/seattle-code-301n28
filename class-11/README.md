@@ -10,6 +10,7 @@ To start, we will introduce Mongodb and Mongoose. We will create data models and
 
 - Review code challenges
 - Introduction of today's code challenge topic
+  - Repl.it Demo: <https://replit.com/@HexxKing1/301n28-Chained-Methods#index.js>
 - Warm-up exercise
 - Mongo, Mongoose, Data Modeling
 - Code Demo
