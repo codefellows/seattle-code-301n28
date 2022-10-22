@@ -123,3 +123,42 @@ fluffy.save();
 
 1. What resources can I use to help me with my lab and to learn more?
 [mongoose](https://mongoosejs.com/docs/)
+
+
+### Mongosh CLI
+
+- What is `mongosh`?
+  - The MongoDB Shell, mongosh, is a fully functional JavaScript and Node.js 16.x REPL environment for interacting with MongoDB deployments. You can use the MongoDB Shell to test queries and operations directly with your database.
+    - [MongoDB Shell Documentation](https://www.mongodb.com/docs/mongodb-shell/)
+  - [Connect to a Deployment](https://www.mongodb.com/docs/mongodb-shell/connect/)
+    - `mongosh` is the same as `mongosh "mongodb://localhost:27017"`
+      - Run mongosh without any options to connect to a MongoDB instance running on your localhost with default port 27017.
+    - `mongosh "mongodb://localhost:27017/myDataBase"`
+      - connect to a specific database
+      - If you do not specify a database, you connect to a database named "test".
+    - To disconnect from a deployment and exit mongosh, you can:
+      - Type `.exit`, `exit`, or `exit()`.
+      - Type `quit` or `quit()`.
+      - Press `Ctrl + D`.
+      - Press `Ctrl + C` twice.
+  - [Run Commands](https://www.mongodb.com/docs/mongodb-shell/run-commands/)
+    - `db`
+      - display the database you are using
+    - `use <database>`
+      - switch databases or to create a new database
+    - `show dbs`
+      - list the databases available to the user
+    - What is a collection?
+      - A grouping of MongoDB documents. A collection exists within a single database. Collections do not enforce a schema. Documents within a collection can have different fields. Typically, all documents in a collection have a similar or related purpose.
+      - `db.myCollection.insertOne( { x: 1 } );`
+        - creates the collection "myCollection"
+        - inserts `{x: 1}` into the collection
+    - `cls` or `Ctrl + L` or `console.clear()`
+      - to clear the console
+  - [Peform CRUD Operations](https://www.mongodb.com/docs/mongodb-shell/crud/)
+    - [Insert Documents](https://www.mongodb.com/docs/mongodb-shell/crud/insert/#std-label-mongosh-insert)
+    - [Query Documents](https://www.mongodb.com/docs/mongodb-shell/crud/read/#std-label-mongosh-read)
+    - [Update Documents](https://www.mongodb.com/docs/mongodb-shell/crud/update/#std-label-mongosh-update)
+    - [Delete Documents](https://www.mongodb.com/docs/mongodb-shell/crud/delete/#std-label-mongosh-delete)
+  - [Write Scripts](https://www.mongodb.com/docs/mongodb-shell/write-scripts/)
+  - [Glossary](https://www.mongodb.com/docs/manual/reference/glossary/)
