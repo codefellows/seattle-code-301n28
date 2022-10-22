@@ -41,6 +41,7 @@ To start, we will introduce Mongodb and Mongoose. We will create data models and
 - GET
   - The GET method requests a representation of the specified resource. Requests using GET should only retrieve data.
 - [Mongoose Schema Types](https://mongoosejs.com/docs/schematypes.html)
+- [Axios Request Config Object](https://axios-http.com/docs/req_config)
 
 #### Execute
 
