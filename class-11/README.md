@@ -40,6 +40,7 @@ To start, we will introduce Mongodb and Mongoose. We will create data models and
   - <https://blog.bitsrc.io/what-is-an-orm-and-why-you-should-use-it-b2b6f75f5e2a>
 - GET
   - The GET method requests a representation of the specified resource. Requests using GET should only retrieve data.
+- [Mongoose Schema Types](https://mongoosejs.com/docs/schematypes.html)
 
 #### Execute
 
