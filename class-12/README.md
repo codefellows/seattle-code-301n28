@@ -39,10 +39,16 @@ Today we will focus on the `C` and the `D` of the `CRUD`:`CREATE` and `DELETE`. 
 ## Notes
 
 1. What does the C and D stand for in CRUD?
+  - CREATE & DELETE
 
 1. What are three ways to send information from the front-end to the back-end?
+  - `request.query` - GET/READ requests
+  - `request.body` - CREATE/PUT(update) requests
+  - `request.params` - DELETE/PUT(update) requests
 
 1. Of the three ways to send information, which two are send in the URL?
+  - `request.query` - GET/READ requests
+  - `request.params` - DELETE/PUT(update) requests
 
 1. How to send information from the front-end to the back-end using Axios:
 
