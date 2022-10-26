@@ -58,7 +58,7 @@ Today we will focus on the `C` and the `D` of the `CRUD`:`CREATE` and `DELETE`. 
   const randomString = 'info that I want to send to the server';
   const SERVER = 'http://localhost:3001';
 
-  axios.get(`${SERVER}`, { params, { data: randomString }})
+  axios.get(`${SERVER}?data=randomString`);
   ```
 
 - queries look like this: `http://localhost:3000/?city=seattle`
@@ -72,16 +72,17 @@ Today we will focus on the `C` and the `D` of the `CRUD`:`CREATE` and `DELETE`. 
 
 **PARAMS**
 
-```javaScript
+```js
 const id = 12;
 const SERVER = 'http://localhost:3001`;
 
 // this will get a single record because we are doing an app.get with an id
-axios.get(`${SERVER}/${id}`)
+axios.get(`${SERVER}/endpoint/${id}`)
 
 // this will delete a single record because we are doing an app.delete with an id
-axios.delete(`${SERVER}/${id}`})
+axios.delete(`${SERVER}/endpoint/${id}`})
 ```
+`http://localhost:3001/books/123456789`
 
 - params look like this: `http://localhost:3000/12`
 - they come before any queries
@@ -122,8 +123,9 @@ axios.post(`${SERVER}`, { data: newRecord });
     const newRecord = request.body.newRecord
 
     // create a record and save
-    const bob = new Model(name: request.body.newRecord.name, age: request.body.newRecord.age);
-    bob.save()
+    const newBook = await Model.create({ name: request.body.newRecord.name, age: request.body.newRecord.age });
+
+    response.status(201).send(newBook);
   }
   ```
 
@@ -137,7 +139,7 @@ axios.post(`${SERVER}`, { data: newRecord });
     const id = request.params.id;
 
     // find that record and delete
-    Model.findOneAndDelete(id);
+    Model.findOneByIdAndDelete(id);
   }
   ```
 
