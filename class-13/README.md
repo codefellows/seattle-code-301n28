@@ -9,6 +9,7 @@ Today we do the final step in full CRUD functionality for our database. This ste
 - Code review of lab assignment
 - Review code challenges
 - Introduce new code challenge topic
+  - repl.it: <https://replit.com/@HexxKing1/301n28-Code-Challenge-String-Manipulation#index.js>
 - Warm-up exercise
 - Updating Resources
 - Code demo
