@@ -129,12 +129,3 @@ While you can run MongoDB on your own machines, it's quite common to run an inst
      - Replace `<dbname>` with the name of the database you want to use for your application, for example 'people'
      - Use this as  `MONGODB_URI` in your .env file or as an **environment variable** when you deploy to the cloud.
 
-![Account Setup](assets/atlas-setup.png)
-
-![Choose Plan](assets/atlas-choose-plan.png)
-
-![Cluster](assets/atlas-cluster-screen.png)
-
-![Network Options](assets/atlas-network.png)
-
-![Connect](assets/atlas-connect-options.png)
