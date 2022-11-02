@@ -32,10 +32,18 @@ Today we do the final step in full CRUD functionality for our database. This ste
 ## Notes
 
 - Why do we need to talk about Diversity and Inclusion?
+  - better business
+  - everyone's voice matters
+  - enpowering people
+  - different perspectives = different people
+  - diversity is how we grow
+  - creates a psych safe space to work in
 
 - What does the U stand for in CRUD?
+  - UPDATE
 
 - How do we find a record by id and update it in Mongoose?
+  `Model.findByIdAndUpdate()`
 
 - [Mongoose Model Methods](https://mongoosejs.com/docs/api/model.html)
 
