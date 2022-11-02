@@ -31,11 +31,13 @@ Today we do the final step in full CRUD functionality for our database. This ste
 
 ## Notes
 
-1. Why do we need to talk about Diversity and Inclusion?
+- Why do we need to talk about Diversity and Inclusion?
 
-1. What does the U stand for in CRUD?
+- What does the U stand for in CRUD?
 
-1. How do we find a record by id and update it in Mongoose?
+- How do we find a record by id and update it in Mongoose?
+
+- [Mongoose Model Methods](https://mongoosejs.com/docs/api/model.html)
 
 1. Sending an axios request to update a record:
 
