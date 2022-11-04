@@ -1,5 +1,16 @@
 # Final Project Kick-off
 
+## Final Project Ideas
+
+- Stacy: Anime or Recipes
+- Ezgi: Pictonary
+- Chris: restaurant picker
+- Andra: Spotify API & generates a music suggestion or set list of songs based off an input
+  - <https://developer.spotify.com/documentation/web-playback-sdk/>
+- Gaz: NASA API to tell you whats in the sky based off your location
+  - could add in weather functionality
+  - <https://threejs.org/>
+
 ## Overview
 
 Today is the last day of formal lecture. It's time to add authentication to our app, so we know, with some level of confidence, who our users are.
